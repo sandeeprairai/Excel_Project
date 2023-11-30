@@ -9,7 +9,7 @@ Final Conclusion
 - Target  women customers of age gropu (30-49 yrs) living in
   Maharashtra,Karnataka and Uttar Pradesh by showing ads/offers/coupons on Amazon,Flipkart and Myntra
 
-  (Dashboard)[https://github.com/sandeeprairai/Excel_Project/blob/main/excel_project.PNG]
+  [Dashboard](https://github.com/sandeeprairai/Excel_Project/blob/main/excel_project.PNG)
 
   
 
